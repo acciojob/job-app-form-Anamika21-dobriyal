@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.required:before{
+	content:"*";
+	font-weight: bold;
+	color:red;
+}
